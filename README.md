@@ -2,12 +2,6 @@
 <html lang="en">
 <body>
 
-<!-- 1337 Logo -->
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/1337_logo_black.png" 
-         alt="1337 Logo" width="200">
-</p>
-
 <h1 align="center">📚 get_next_line – 42 / 1337 Project</h1>
 <p align="center">Read a file line by line, like a real programmer.</p>
 
